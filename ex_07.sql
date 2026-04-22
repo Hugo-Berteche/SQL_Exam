@@ -1,0 +1,1 @@
+/* AND inclus les différentes données en commun dans deux tables alors que OR ne donne que les données d'une des tables */

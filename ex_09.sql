@@ -1,0 +1,1 @@
+/* DROP supprime une table et DELETE ne supprime que des données spécifiques */
